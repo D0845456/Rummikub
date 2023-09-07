@@ -1,0 +1,4 @@
+1. 開啟server.py
+2. 開啟2個client_mix.py, 並登入
+3. 2組帳號密碼: (user1,123) 與 (user2,123)
+4. 等兩個client都連上後遊戲即開始
